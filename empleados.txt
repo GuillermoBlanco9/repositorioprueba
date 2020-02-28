@@ -1,0 +1,21 @@
+Julia Gutierrez*10*1356*administrativo//
+Mariano Lopez*3*1000*peón//
+Luisa Gomez*12*2500*jefe//
+Carolina Melgar*10*1400*ayudante//
+Casimiro Munoz*25*2900*jefe//
+Luisa Granadina*25*3217*jefe//
+Carmelo Sito*12*1900*ayudante//
+Valeriano Canelo*2*1000*peón//
+Angustias Cansino*3*1000*peón//
+Marcelo Higuera*5*1633*capataz//
+Vilma Calimo*5*1600*capataz//
+Leopoldo Calimero*5*1500*perforista//
+Manuela Ronquillo*5*1600*conductora//
+Leocadia Roma*1*1100*gruista//
+Luis Antonio Romino*8*1700*gruista//
+Gloria Santisteban*4*1300*secretaria//
+Landelino Puebla*4*1300*secretario//
+Javier Dosdedos*12*2017*capataz//
+Laura Sixto*15*2061*arquitecta//
+Lara Tomillo*18*2208*arquitecta//
+Carolina Melgar*10*1400*ayudante//

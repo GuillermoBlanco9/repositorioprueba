@@ -1,0 +1,10 @@
+Mariano Lopez*3*1000.0*peón//
+Valeriano Canelo*2*1000.0*peón//
+Angustias Cansino*3*1000.0*peón//
+Marcelo Higuera*5*1633.0*capataz//
+Vilma Calimo*5*1600.0*capataz//
+Leopoldo Calimero*5*1500.0*perforista//
+Manuela Ronquillo*5*1600.0*conductora//
+Leocadia Roma*1*1100.0*gruista//
+Gloria Santisteban*4*1300.0*secretaria//
+Landelino Puebla*4*1300.0*secretario//
